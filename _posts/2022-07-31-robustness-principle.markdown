@@ -96,7 +96,7 @@ to try their hand at implementing this protocol, reading and implementing the
 specification alone will not suffice for functionality parity with even the
 reference implementations of it. They will come to learn that, no matter what
 the specification says, someone will end up approaching your software with
-data they expect to work, because the reference imeplementation and most
+data they expect to work, because the reference implementation and most
 implementations derived from it will accept it.
 
 ## Why does this matter?
