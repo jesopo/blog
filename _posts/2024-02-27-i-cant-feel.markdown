@@ -105,7 +105,7 @@ vital to what happens next but what happens next isn't just a question of what
 happens to the people of Palestine, but also a question about how we live with
 ourselves elsewhere in the world. The global power structures of today lay
 dilapidated and exposed on the floor. My soul and your soul now have a rot
-deep inside them. There is stain on any principles we ever claimed to have
+deep inside them. There is a stain on any principles we ever claimed to have
 that declares them to have been lies. I hope for your sake that you have a way
 to find a comfort in repentence for what we have let happen, because I do not.
 
