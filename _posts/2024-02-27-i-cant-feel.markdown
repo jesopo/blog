@@ -35,7 +35,7 @@ I saw fathers screaming and crying, trying to dig through rubble with their
 bare hands, yelling out the names of the children they knew had been crushed
 and killed after their home collapsed after being directly hit by an Israeli
 bomb. The fathers must've known their kids were gone, they must've known their
-efforts were in vein, they must've known the lights of their lives had been
+efforts were in vain, they must've known the lights of their lives had been
 taken already. I watched the panicked and desperate digging of pure fatherly
 instinct turn into a weeping so uncontrollable that their ability to try to
 dig started to fail them, until they collapsed into a defeated and destroyed
